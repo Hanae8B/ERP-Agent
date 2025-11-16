@@ -1,0 +1,30 @@
+# Basic dependencies for ERP agent project
+python>=3.10
+
+# Common packages for data handling and AI logic
+numpy
+pandas
+
+# For scheduling or async tasks
+schedule
+asyncio
+
+# For logging
+loguru
+
+# For AI/ML components
+scikit-learn
+torch
+
+# For GUI
+customtkinter
+
+# For visualization and reporting
+matplotlib
+seaborn
+
+# For configuration and serialization
+pyyaml
+
+# For testing and development
+pytest

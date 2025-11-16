@@ -1,0 +1,42 @@
+[
+  {
+    "goal": "Improve inventory management",
+    "priority": 5
+  },
+  {
+    "goal": "Reduce operational costs",
+    "priority": 4
+  },
+  {
+    "goal": "Boost sales growth",
+    "priority": 5
+  },
+  {
+    "goal": "Enhance customer satisfaction",
+    "priority": 4
+  },
+  {
+    "goal": "Increase employee productivity",
+    "priority": 3
+  },
+  {
+    "goal": "Automate routine accounting tasks",
+    "priority": 4
+  },
+  {
+    "goal": "Optimize supply chain efficiency",
+    "priority": 5
+  },
+  {
+    "goal": "Ensure regulatory compliance",
+    "priority": 3
+  },
+  {
+    "goal": "Improve reporting and analytics",
+    "priority": 4
+  },
+  {
+    "goal": "Enhance system security",
+    "priority": 5
+  }
+]
