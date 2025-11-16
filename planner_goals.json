@@ -38,5 +38,9 @@
   {
     "goal": "Enhance system security",
     "priority": 5
+  },
+  {
+    "goal": "Enhance data security and privacy compliance",
+    "priority": 5
   }
 ]

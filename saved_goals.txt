@@ -8,3 +8,4 @@ Optimize supply chain efficiency|5
 Ensure regulatory compliance|3
 Improve reporting and analytics|4
 Enhance system security|5
+Enhance data security and privacy compliance|5
